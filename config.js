@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '💋'],  // Heart emojis
+        bears: ['🧸', '🐻', '🐼']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -50,18 +50,18 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "I love you!",
+        emojis: "💖💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#9b42f5",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#f542e3",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#f70a0a",     // Button color (should stand out against the background)
+        buttonHover: "#fc4e4e",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#f50c0c"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
